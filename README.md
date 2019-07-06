@@ -2,6 +2,6 @@
 
 Welcome to Amigo Social Media Platform
 
-#Dependencies
+# Dependencies
 
 1.Express
